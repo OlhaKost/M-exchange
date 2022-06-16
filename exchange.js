@@ -8,7 +8,7 @@ let inputPLN3 = document.getElementById('PLN2');
 let inputEUR4 = document.getElementById('EUR2');
 
 
-switch () {
+switch (inputUSD1) {
 
 case "a"
 
